@@ -1,4 +1,3 @@
-$ cat python_async_function/README.md
 # Python - Async
 
 This project introduces asynchronous programming in Python using `async`, `await`, and `asyncio`. 
