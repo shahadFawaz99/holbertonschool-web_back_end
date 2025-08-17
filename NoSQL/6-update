@@ -1,6 +1,4 @@
 // update all documents
 db.school.update(
-{ name: "Holberton school"},
-{ $set: {adress: "972 mission street"} },
-{ multi: true }
-)
+{ "name": "Holberton school"},
+{ "$set": {"adress": "972 mission street"}})
