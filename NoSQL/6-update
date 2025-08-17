@@ -1,0 +1,2 @@
+// update all documents
+db.school.update()
