@@ -1,2 +1,2 @@
-// update all documents
-db.school.updateMany({"name": "Holberton school"}, {"$set": {"adress": "972 mission street"}})
+// Update
+db.school.updateMany( {"name": "Holberton School"}, {"$set": {"address": "972 Mission street"}})
