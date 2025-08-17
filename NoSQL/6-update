@@ -1,2 +1,6 @@
 // update all documents
-db.school.update()
+db.school.update(
+{ name: "Holberton school"},
+{ $set: {adress: "972 mission street"} },
+{ multi: true }
+)
