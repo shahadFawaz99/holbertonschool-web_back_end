@@ -1,2 +1,2 @@
-//Switch to (or create if it doesn't exist) the database named my_db:
+// my comment
 use my_db
