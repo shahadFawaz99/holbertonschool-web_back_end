@@ -34,14 +34,6 @@ It focuses on implementing **pagination** in Python using different approaches.
     - `next_index`  
   Ensures pagination remains consistent even if rows are deleted between queries.
 
----
 
-## Dataset
-
-The project uses the dataset:
-**`Popular_Baby_Names.csv`**
-
-- Contains **19,419** rows.
-- Sample format:
 
 
