@@ -1,2 +1,2 @@
-// Switch to (or create if it doesn't exist)
+// Switch to (or create if it doesn't exist) the database named "my_db"
 use my_db
